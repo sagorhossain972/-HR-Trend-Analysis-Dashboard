@@ -1,2 +1,2 @@
 # -HR-Trend-Analysis-Dashboard
-A Power BI project focused on visualizing and analyzing human resource trends to provide actionable insights for strategic decision-making.
+This project delivers a Business Intelligence (BI) dashboard designed for in-depth human resource trend analysis. The process involved meticulous data preparation, precise KPI establishment, and the creation of interactive visualizations to provide actionable insights for strategic workforce management.
